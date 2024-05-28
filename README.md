@@ -1,2 +1,2 @@
 # House_rental
-Website for ouse rentals
+Website for house rentals
